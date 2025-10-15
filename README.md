@@ -4,10 +4,10 @@ Just my python code
 
 #Tipe-tipe data di python
 
-1.String.  -> Data Huruf
-2.integer. -> Data angka
-3.float.   -> Data Desimal
-4.bolean.  -> Data true atau false (0=false)
+1.String.  = Data Huruf
+2.integer. = Data angka
+3.float.   = Data Desimal
+4.bolean.  = Data true atau false (0=false)
 
 
 
