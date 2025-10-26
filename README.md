@@ -26,11 +26,23 @@ print -> Buat print hasil
 
 Contoh : print("kipas angin")
 
+
+
+<hr>
+
+
+
 Bagian khusus
+
   1. tanda kutip ("") 
      Digunakan untuk print huruf ,angka ,symbol atau apa saja di python
+
   2. tanda kurung saja tanpa kutip
      tanda kurung tanpa kutip () di gunakan untuk menampilkan data integer atau data angka
+
+
+
+<hr>
   
 
 
